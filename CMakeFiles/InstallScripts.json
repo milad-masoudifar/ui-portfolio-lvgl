@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/LVGL/emscripten/lv_web_emscripten/cmbuild/cmake_install.cmake",
-		"D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

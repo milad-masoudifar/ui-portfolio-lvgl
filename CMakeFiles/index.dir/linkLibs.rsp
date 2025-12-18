@@ -1,1 +1,0 @@
- lvgl/lib/liblvgl.a lvgl/lib/liblvgl_examples.a lvgl/lib/liblvgl_demos.a lvgl/lib/liblvgl_thorvg.a -lSDL2 -lSDL2_mixer lvgl/lib/liblvgl.a 
