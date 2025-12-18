@@ -1,0 +1,28 @@
+lvgl/CMakeFiles/lvgl.dir/src/libs/expat/xmlrole.c.o: \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\xmlrole.c \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\..\..\lv_conf_internal.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lv_conf.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\expat_config.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\stddef.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\stddef.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_header_macro.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_ptrdiff_t.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_size_t.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_wchar_t.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_null.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_max_align_t.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\__stddef_offsetof.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\expat_external.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\internal.h \
+  D:\LVGL\emscripten\emsdk\upstream\lib\clang\22\include\limits.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\limits.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\features.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\bits\alltypes.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\bits\limits.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\expat.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\compat\stdlib.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\stdlib.h \
+  D:\LVGL\emscripten\emsdk\upstream\emscripten\cache\sysroot\include\alloca.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\xmlrole.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\xmltok.h \
+  D:\LVGL\emscripten\lv_web_emscripten\lvgl\src\libs\expat\ascii.h

@@ -1,0 +1,17 @@
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/index.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/edit_cache.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/rebuild_cache.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/list_install_components.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/install.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/install/local.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/CMakeFiles/install/strip.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/lvgl.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/lvgl_thorvg.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/lvgl_examples.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/lvgl_demos.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/edit_cache.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/rebuild_cache.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/list_install_components.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/install.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/install/local.dir
+D:/LVGL/emscripten/lv_web_emscripten/cmbuild/lvgl/CMakeFiles/install/strip.dir
