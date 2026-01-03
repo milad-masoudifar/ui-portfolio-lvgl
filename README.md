@@ -2,4 +2,4 @@
 
 ## Vintage Radio
 - Description
-- [Demo](https://github.com/milad-masoudifar/ui-portfolio-lvgl/blob/main/vintage%20radio/index.html)
+- [Demo](https://milad-masoudifar.github.io/ui-portfolio-lvgl/vintage-radio/)
